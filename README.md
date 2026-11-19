@@ -27,6 +27,14 @@ The program in this repo (`main.ts`) copies the finished PNG to
 was first reported — Nvidia's $115.8bn quarter and Peltola's Alaska win were
 both 17 November, so they are in the DATE CHECK, not in the news.
 
+## Date check
+
+Left out on purpose because first reported before today: the Kerch Bridge
+span falls (17 Nov), Nvidia's $115.8bn quarter (17 Nov), Peltola's Alaska
+Senate win (17 Nov), the NSA network outage (17 Nov), the Knesset electing
+Kahana (17 Nov), Mongolia's president resigning (17 Nov), and Amazon's $7bn
+India plan (17 Nov).
+
 ## Entry
 
 - Competition: [news-image-20261119](https://make.fun/bounty/news-image-20261119)
