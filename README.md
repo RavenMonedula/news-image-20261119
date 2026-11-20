@@ -59,3 +59,14 @@ Nvidia's $115.8bn quarter (Tue 17 Nov), Earth's missing billion years
 - Competition: [news-image-20261119](https://make.fun/bounty/news-image-20261119)
 - Image: `entry.png` (1024x1024, PNG)
 - License: MIT
+
+
+## v3 (round 4 candidate)
+
+Rebuilt after v2.2 scored 96.1059% (rank 9039) vs v1's 98.7361% (rank 99).
+Diagnosis: v2.2 was too dense — 43 stories + status tags + 3 extra boxes.
+Top entries run 33-35 stories with larger, more readable text. v3 goes back
+to v1's clean structure with top-1's story count (33) and bigger art, and
+keeps the region bar + EVERY CONTINENT header. 3 heroes (Shenzhen, ICJ 9-6,
+Anthropic IPO) + 10 medium + map + ALSO 20 + DATE CHECK. All 33 stories
+verified as Thursday 19 November 2026; the 4 v1 date errors stay excluded.
