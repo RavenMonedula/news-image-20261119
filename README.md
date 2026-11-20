@@ -70,3 +70,12 @@ to v1's clean structure with top-1's story count (33) and bigger art, and
 keeps the region bar + EVERY CONTINENT header. 3 heroes (Shenzhen, ICJ 9-6,
 Anthropic IPO) + 10 medium + map + ALSO 20 + DATE CHECK. All 33 stories
 verified as Thursday 19 November 2026; the 4 v1 date errors stay excluded.
+
+
+## v4 (round 5 candidate)
+
+v1's structure (48 stories, clean, navy+gold) with the 4 v1 date errors fixed:
+Iran->Anthropic IPO, Voyager 1->Suneung, Jeffries->Colombia strike, settler
+sanctions->Australia jobless 4.9%; Gaza reframed as raid ending; UTC strip
+and BY THE NUMBERS fixed (no Voyager); DATE CHECK now names 18 Nov
+exclusions too; header says EVERY CONTINENT; ICJ hero carries the 9-6 badge.
