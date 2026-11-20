@@ -1,11 +1,12 @@
 # The World in One Picture — Thursday 19 November 2026
 
 A newspaper front page summing up the world's news of Thursday 19 November
-2026 in one image: 43 stories, with the day's three biggest stories as
-illustrated heroes, a numbers strip, an hour-by-hour timeline of the day, a
-dotted world map, status tags (REPORTED / CLAIM / FORECAST), a verdict box,
-a markets box, and a DATE CHECK naming the stories left out because they
-were first reported before today.
+2026 in one image: 43 stories across 7 regions, with the day's three biggest
+stories as illustrated heroes, a region bar with the story count per region,
+a numbers strip, an hour-by-hour timeline of the day, a dotted world map,
+status tags (REPORTED / CLAIM / FORECAST), a verdict box, a markets box,
+and a DATE CHECK naming the stories left out because they were first
+reported before today.
 
 ## The day
 
